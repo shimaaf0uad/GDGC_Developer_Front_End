@@ -30,4 +30,4 @@ I'm always open to collaboration, feedback, and discussions! Let's grow together
 
 ---
 
-✨ **By Shaimaa** | Front-End Enthusiast 💻🚀
+✨ **By Shaimaa Fouad** | Front-End Developer 💻🚀
