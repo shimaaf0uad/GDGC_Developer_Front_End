@@ -51,7 +51,7 @@ Here is a simple version of the HTML structure:
     <h2>About Me</h2>
     <p>I am learning HTML because I want to become a great web developer!</p>
     
-    <img src="coding-image.jpg" alt="Coding Screen" width="400px">
+    <img src="https://via.placeholder.com/400" alt="Coding Screen" width="400px">
     
     <p><a href="https://www.google.com" target="_blank">Click here to visit Google</a></p>
     
@@ -89,5 +89,4 @@ I'm always open to feedback, discussions, and collaboration!
 
 ---
 
-🚀 **By:Eng Shaimaa Fouad** | Front-End Developer in Progress 💻✨  
-
+🚀 **By: Eng Shaimaa Fouad  ** | Front-End Developer in Progress 💻✨
