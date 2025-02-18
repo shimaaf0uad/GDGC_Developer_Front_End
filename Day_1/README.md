@@ -89,4 +89,4 @@ I'm always open to feedback, discussions, and collaboration!
 
 ---
 
-🚀 **By: Eng Shaimaa Fouad  ** | Front-End Developer in Progress 💻✨
+🚀 **By: Eng Shaimaa Fouad** | Front-End Developer in Progress 💻✨
